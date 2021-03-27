@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🐝 I’m currently working as a Security Researcher.
+- 🎯 I’m interested in DFIR, Reverse Engineering and Cryptography.
 <!--
 **onesorzer0es/onesorzer0es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
